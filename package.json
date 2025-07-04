@@ -1,0 +1,34 @@
+{
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "description": "QR application",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yceman/qr-generator.git"
+  },
+  "keywords": [
+    "JS",
+    "TS",
+    "QR",
+    "Code"
+  ],
+  "author": "Marcos Morais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yceman/qr-generator/issues"
+  },
+  "homepage": "https://github.com/yceman/qr-generator#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
